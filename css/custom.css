@@ -1,0 +1,7 @@
+.avatar img {
+  border-radius: 50%; /* 将图片变成圆形 */
+  width: 150px; /* 调整图片宽度 */
+  height: 150px; /* 调整图片高度 */
+  object-fit: cover; /* 确保图片内容不变形 */
+  overflow: hidden;
+}
